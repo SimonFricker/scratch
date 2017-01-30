@@ -1,0 +1,20 @@
+{
+  "name": "scratch",
+  "description": "Base frontend framewrok with node.js",
+  "main": "",
+  "authors": [
+    "Simon Fricker"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
